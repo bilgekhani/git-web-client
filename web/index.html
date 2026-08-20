@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>git-web-client preview</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #101216;
+        --panel: #181c22;
+        --ink: #e8edf2;
+        --muted: #8b98a5;
+        --line: #2a313a;
+        --accent: #7aa2f7;
+        --pub: #3d8b6e;
+        --priv: #b08050;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font: 14px/1.45 ui-sans-serif, system-ui, sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+      }
+      header, main { max-width: 1100px; margin: 0 auto; padding: 24px; }
+      h1 { font-size: 20px; margin: 0 0 8px; }
+      .muted { color: var(--muted); }
+      .grid { display: grid; grid-template-columns: 280px 1fr; gap: 20px; }
+      .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+      .stat { display: flex; justify-content: space-between; padding: 4px 0; border-bottom: 1px solid var(--line); }
+      .repo {
+        display: grid;
+        grid-template-columns: 1fr auto auto;
+        gap: 12px;
+        padding: 8px 0;
+        border-bottom: 1px solid var(--line);
+      }
+      .tag { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; }
+      .pub { color: var(--pub); }
+      .priv { color: var(--priv); }
+      canvas { width: 100%; height: 96px; }
+      a { color: var(--accent); text-decoration: none; }
+      select, button {
+        background: #111;
+        color: var(--ink);
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 6px 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>git-web-client fixture preview</h1>
+      <p class="muted">
+        Local mock API. Live profile:
+        <a href="https://github.com/imsakg">imsakg</a>
+        · CV 4.4.0 ·
+        <a href="https://www.linkedin.com/in/msakg">linkedin.com/in/msakg</a>
+      </p>
+      <p>
+        source
+        <select id="source">
+          <option value="bilgekhani">generated / bilgekhani</option>
+          <option value="imsakg">live snapshot / imsakg</option>
+        </select>
+        <button id="reload">reload</button>
+      </p>
+    </header>
+    <main class="grid">
+      <aside class="panel" id="profile">loading…</aside>
+      <section>
+        <div class="panel" id="contrib"></div>
+        <div class="panel" style="margin-top:16px" id="repos">loading repos…</div>
+      </section>
+    </main>
+    <script>
+      const $ = (id) => document.getElementById(id);
+      // Fixture JSON only; still escape before innerHTML so a bad description cannot inject markup.
+      const esc = (value) => String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+      async function j(path) {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error(path + " " + res.status);
+        return res.json();
+      }
+      function stats(obj) {
+        return Object.entries(obj)
+          .map(([k, v]) => `<div class="stat"><span>${esc(k)}</span><strong>${esc(v)}</strong></div>`)
+          .join("");
+      }
+      async function render() {
+        const login = $("source").value;
+        try {
+          const user = await j("/users/" + login);
+          const repos = await j("/users/" + login + "/repos?per_page=40");
+          $("profile").innerHTML = `
+            <h2>${esc(user.name || user.login)}</h2>
+            <p class="muted">${esc(user.bio || user.company || "")}</p>
+            ${stats({
+              login: user.login,
+              public: user.public_repos ?? repos.length,
+              private: user.total_private_repos ?? "n/a",
+              followers: user.followers ?? 0,
+              created: (user.created_at || "").slice(0, 10),
+            })}
+          `;
+          $("repos").innerHTML = repos
+            .map((r) => {
+              const vis = r.visibility || (r.private ? "private" : "public");
+              return `<div class="repo">
+                <div><strong>${esc(r.name)}</strong><div class="muted">${esc(r.description || "")}</div></div>
+                <div class="muted">${esc(r.language || "")}</div>
+                <div class="tag ${vis === "private" ? "priv" : "pub"}">${esc(vis)}</div>
+              </div>`;
+            })
+            .join("");
+          if (login === "bilgekhani") {
+            const cal = await j("/users/bilgekhani/contributions");
+            $("contrib").innerHTML = `<div class="muted">${esc(cal.total)} synthetic commits · ${esc(cal.from)} → ${esc(cal.to)}</div>`;
+          } else {
+            $("contrib").textContent = "Live snapshot has no synthetic contribution calendar.";
+          }
+        } catch (err) {
+          $("profile").textContent = String(err);
+        }
+      }
+      $("reload").onclick = render;
+      $("source").onchange = render;
+      render();
+    </script>
+  </body>
+</html>

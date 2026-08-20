@@ -1,0 +1,36 @@
+{
+  "login": "bilgekhani",
+  "id": 318754444,
+  "name": "Mert Sefa AKGUN",
+  "bio": "Lead Software Engineer — Full-Spectrum Systems & AI",
+  "blog": "https://msakg.com",
+  "company": "@Vyvo-Labs",
+  "location": "Istanbul, Turkiye",
+  "email": "contact@msakg.com",
+  "twitter_username": "imsakg",
+  "html_url": "https://github.com/bilgekhani",
+  "avatar_url": "https://avatars.githubusercontent.com/u/318754444?v=4",
+  "created_at": "2026-08-19T19:03:34Z",
+  "public_repos": 319,
+  "total_private_repos": 429,
+  "followers": 0,
+  "following": 0,
+  "type": "User",
+  "source": {
+    "kind": "synthetic-fixture",
+    "seed": "bilgekhani-git-web-client-cv-4.4.0",
+    "based_on": [
+      "cv-v4.4.0",
+      "github.com/imsakg",
+      "linkedin.com/in/msakg"
+    ],
+    "note": "Local mock only. The live GitHub account is one day old; this corpus is not published."
+  },
+  "cv": {
+    "version": "4.4.0",
+    "title": "Lead Software Engineer — Full-Spectrum Systems & AI",
+    "github": "https://github.com/imsakg",
+    "linkedin": "https://www.linkedin.com/in/msakg",
+    "site": "https://www.msakg.com"
+  }
+}

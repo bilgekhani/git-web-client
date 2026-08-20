@@ -1,0 +1,5416 @@
+[
+  {
+    "month": "2013-08",
+    "count": 2,
+    "repos": [
+      {
+        "name": "nano-imu-2013",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "nano-led-2013",
+        "visibility": "public",
+        "language": "Java",
+        "kind": "arduino"
+      }
+    ]
+  },
+  {
+    "month": "2013-09",
+    "count": 11,
+    "repos": [
+      {
+        "name": "avr-sonar",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "arduino"
+      },
+      {
+        "name": "box-lxc-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "site-wiki-2013",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "srv-backup-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "uno-imu-2013",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "lab-signals",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "homework"
+      },
+      {
+        "name": "cs-ds",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "homework"
+      },
+      {
+        "name": "cli-cat-2013",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "boxcron",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "host-cron-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "php-board",
+        "visibility": "private",
+        "language": "C",
+        "kind": "web-php"
+      }
+    ]
+  },
+  {
+    "month": "2013-10",
+    "count": 4,
+    "repos": [
+      {
+        "name": "hostdns",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "srv-dns",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "uno-sonar",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "arduino"
+      },
+      {
+        "name": "opsjail",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2013-11",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2013-12",
+    "count": 4,
+    "repos": [
+      {
+        "name": "box-backup-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "cli-wc",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "mini-wc-2013",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "mini-fetch",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2014-01",
+    "count": 5,
+    "repos": [
+      {
+        "name": "site-paste",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "web-php"
+      },
+      {
+        "name": "minigrep",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "lair-gallery-lab",
+        "visibility": "private",
+        "language": "Java",
+        "kind": "web-php"
+      },
+      {
+        "name": "site-board",
+        "visibility": "public",
+        "language": null,
+        "kind": "web-php"
+      },
+      {
+        "name": "opsbackup",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2014-02",
+    "count": 7,
+    "repos": [
+      {
+        "name": "csembed",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "homework"
+      },
+      {
+        "name": "tiny-grep",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cli-weather",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "rice-x11",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "cmpe-automata",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "homework"
+      },
+      {
+        "name": "srv-backup-2014",
+        "visibility": "private",
+        "language": "Java",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "site-blog-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "web-php"
+      }
+    ]
+  },
+  {
+    "month": "2014-03",
+    "count": 5,
+    "repos": [
+      {
+        "name": "dots-void",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "sketch-pwm-2014",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "sketch-pwm-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "arduino"
+      },
+      {
+        "name": "lair-paste",
+        "visibility": "private",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "dotsvoid",
+        "visibility": "public",
+        "language": "C",
+        "kind": "dotfiles"
+      }
+    ]
+  },
+  {
+    "month": "2014-04",
+    "count": 7,
+    "repos": [
+      {
+        "name": "lab-ds-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "homework"
+      },
+      {
+        "name": "uno-led",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "lab-net-lab",
+        "visibility": "private",
+        "language": null,
+        "kind": "homework"
+      },
+      {
+        "name": "dotfiles-x11-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "csds",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "homework"
+      },
+      {
+        "name": "lab-ds-2014",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "cfg-x11",
+        "visibility": "public",
+        "language": "C",
+        "kind": "dotfiles"
+      }
+    ]
+  },
+  {
+    "month": "2014-05",
+    "count": 4,
+    "repos": [
+      {
+        "name": "ops-lxc-2014",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "lairpaste",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "web-php"
+      },
+      {
+        "name": "sketchpwm",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "arduino"
+      },
+      {
+        "name": "minicat",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2014-06",
+    "count": 5,
+    "repos": [
+      {
+        "name": "lab-os",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "homework"
+      },
+      {
+        "name": "riceawesome",
+        "visibility": "public",
+        "language": "C",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "csautomata",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "homework"
+      },
+      {
+        "name": "host-lxc",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "dotfiles-arch-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "dotfiles"
+      }
+    ]
+  },
+  {
+    "month": "2014-07",
+    "count": 3,
+    "repos": [
+      {
+        "name": "tinygrep",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cmd-grep-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cs-embed",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "homework"
+      }
+    ]
+  },
+  {
+    "month": "2014-08",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2014-09",
+    "count": 6,
+    "repos": [
+      {
+        "name": "dotfiles-void-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "avrrf",
+        "visibility": "public",
+        "language": null,
+        "kind": "arduino"
+      },
+      {
+        "name": "dotfilesx11",
+        "visibility": "public",
+        "language": "Java",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "php-gallery",
+        "visibility": "public",
+        "language": "Java",
+        "kind": "web-php"
+      },
+      {
+        "name": "cmdcat",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "hostjail",
+        "visibility": "public",
+        "language": "C",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2014-10",
+    "count": 4,
+    "repos": [
+      {
+        "name": "site-wiki-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "nano-pwm-2014",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "arduino"
+      },
+      {
+        "name": "cs-automata",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "tiny-wc",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2014-11",
+    "count": 5,
+    "repos": [
+      {
+        "name": "cmpeos",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "lair-wiki",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "web-php"
+      },
+      {
+        "name": "tiny-weather",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cli-grep-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cmpe-automata-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "homework"
+      }
+    ]
+  },
+  {
+    "month": "2014-12",
+    "count": 6,
+    "repos": [
+      {
+        "name": "hostlxc",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "cs-signals-2014",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "cmdgrep",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cmpe-os",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "homework"
+      },
+      {
+        "name": "mini-cat",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cmpe-signals",
+        "visibility": "private",
+        "language": "Java",
+        "kind": "homework"
+      }
+    ]
+  },
+  {
+    "month": "2015-01",
+    "count": 5,
+    "repos": [
+      {
+        "name": "nano-gps-2015",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "arduino"
+      },
+      {
+        "name": "sitepaste",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "web-php"
+      },
+      {
+        "name": "minifetch",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "hwsignals",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "homework"
+      },
+      {
+        "name": "tiny-weather-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2015-02",
+    "count": 5,
+    "repos": [
+      {
+        "name": "php-blog",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "lair-board",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "web-php"
+      },
+      {
+        "name": "dots-term",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "hostcron",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "cmd-todo",
+        "visibility": "private",
+        "language": "C",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2015-03",
+    "count": 7,
+    "repos": [
+      {
+        "name": "lair-paste-lab",
+        "visibility": "private",
+        "language": null,
+        "kind": "web-php"
+      },
+      {
+        "name": "dotsi3",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "php-board-lab",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "web-php"
+      },
+      {
+        "name": "lab-automata",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "homework"
+      },
+      {
+        "name": "unorf",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "site-board-2015",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "cmd-cat-2015",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2015-04",
+    "count": 7,
+    "repos": [
+      {
+        "name": "sketch-rf",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "srvbackup",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "srv-mail-2015",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "cmd-fetch-lab",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "phpblog",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "hw-signals",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "homework"
+      },
+      {
+        "name": "srvdns",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2015-05",
+    "count": 4,
+    "repos": [
+      {
+        "name": "avr-pwm",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "uno-imu-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "phppaste",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "web-php"
+      },
+      {
+        "name": "srv-jail-2015",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2015-06",
+    "count": 5,
+    "repos": [
+      {
+        "name": "cmdfetch",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "cmpesignals",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "homework"
+      },
+      {
+        "name": "srv-backup",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "ops-lxc-2015",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "avr-rf",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "arduino"
+      }
+    ]
+  },
+  {
+    "month": "2015-07",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2015-08",
+    "count": 4,
+    "repos": [
+      {
+        "name": "nano-sonar",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "arduino"
+      },
+      {
+        "name": "box-jail-lab",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "php-wiki",
+        "visibility": "private",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "host-mail-2015",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2015-09",
+    "count": 6,
+    "repos": [
+      {
+        "name": "opsdns",
+        "visibility": "public",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "lair-gallery",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "web-php"
+      },
+      {
+        "name": "hw-os",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "homework"
+      },
+      {
+        "name": "php-paste",
+        "visibility": "public",
+        "language": "Java",
+        "kind": "web-php"
+      },
+      {
+        "name": "cli-cat",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "box-cron",
+        "visibility": "private",
+        "language": "Java",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2015-10",
+    "count": 7,
+    "repos": [
+      {
+        "name": "dotfiles-awesome-2015",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "dotsx11",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "srvcron",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "cs-os-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "dotfilesterm",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "cli-todo-2015",
+        "visibility": "private",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "ops-backup-2015",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2015-11",
+    "count": 6,
+    "repos": [
+      {
+        "name": "sketch-led",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "dotfiles-i3-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "mini-todo-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "opscron",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "host-cron",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "cli-grep-2015",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2015-12",
+    "count": 1,
+    "repos": [
+      {
+        "name": "site-paste-2015",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "web-php"
+      }
+    ]
+  },
+  {
+    "month": "2016-01",
+    "count": 7,
+    "repos": [
+      {
+        "name": "dotfiles-x11-2016",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "mini-wc",
+        "visibility": "private",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "nano-imu-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "arduino"
+      },
+      {
+        "name": "cliwc",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "hw-ds-2016",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "homework"
+      },
+      {
+        "name": "uno-rf-2016",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "box-dns",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2016-02",
+    "count": 7,
+    "repos": [
+      {
+        "name": "dots-void-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "lair-wiki-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "web-php"
+      },
+      {
+        "name": "mini-grep",
+        "visibility": "public",
+        "language": "C",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "hwnet",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "php-wiki-2016",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "web-php"
+      },
+      {
+        "name": "hw-embed",
+        "visibility": "public",
+        "language": "Java",
+        "kind": "homework"
+      },
+      {
+        "name": "lab-embed-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "homework"
+      }
+    ]
+  },
+  {
+    "month": "2016-03",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2016-04",
+    "count": 6,
+    "repos": [
+      {
+        "name": "rice-term",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "hwds",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "homework"
+      },
+      {
+        "name": "uno-pwm-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "nano-pwm-2016",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "srvmail",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "uno-pwm",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "arduino"
+      }
+    ]
+  },
+  {
+    "month": "2016-05",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2016-06",
+    "count": 5,
+    "repos": [
+      {
+        "name": "php-board-2016",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "web-php"
+      },
+      {
+        "name": "site-wiki-2016",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "sketch-gps",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "cs-net",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "homework"
+      },
+      {
+        "name": "mini-weather",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2016-07",
+    "count": 6,
+    "repos": [
+      {
+        "name": "cfgarch",
+        "visibility": "public",
+        "language": "C",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "lab-net-2016",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "homework"
+      },
+      {
+        "name": "site-gallery-2016",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "web-php"
+      },
+      {
+        "name": "uno-sonar-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "arduino"
+      },
+      {
+        "name": "cs-embed-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "homework"
+      },
+      {
+        "name": "phpgallery",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "web-php"
+      }
+    ]
+  },
+  {
+    "month": "2016-08",
+    "count": 4,
+    "repos": [
+      {
+        "name": "rice-x11-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "box-dns-2016",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "uno-sonar-2016",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "lairblog",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      }
+    ]
+  },
+  {
+    "month": "2016-09",
+    "count": 4,
+    "repos": [
+      {
+        "name": "nano-sonar-lab",
+        "visibility": "public",
+        "language": "Arduino",
+        "kind": "arduino"
+      },
+      {
+        "name": "srv-cron-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "opslxc",
+        "visibility": "private",
+        "language": "C",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "labembed",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "homework"
+      }
+    ]
+  },
+  {
+    "month": "2016-10",
+    "count": 7,
+    "repos": [
+      {
+        "name": "cmpe-net",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "homework"
+      },
+      {
+        "name": "nano-pwm",
+        "visibility": "public",
+        "language": "C",
+        "kind": "arduino"
+      },
+      {
+        "name": "php-paste-2016",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "web-php"
+      },
+      {
+        "name": "hwos",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "lair-paste-2016",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "web-php"
+      },
+      {
+        "name": "uno-imu-2016",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "arduino"
+      },
+      {
+        "name": "sketch-sonar-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "arduino"
+      }
+    ]
+  },
+  {
+    "month": "2016-11",
+    "count": 4,
+    "repos": [
+      {
+        "name": "box-mail-2016",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "dots-void-2016",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "dotfiles"
+      },
+      {
+        "name": "lair-wiki-2016",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "web-php"
+      },
+      {
+        "name": "tiny-todo-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "toy-cli"
+      }
+    ]
+  },
+  {
+    "month": "2016-12",
+    "count": 5,
+    "repos": [
+      {
+        "name": "srv-mail-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "sysadmin"
+      },
+      {
+        "name": "miniweather",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "toy-cli"
+      },
+      {
+        "name": "lab-ds",
+        "visibility": "private",
+        "language": "C",
+        "kind": "homework"
+      },
+      {
+        "name": "lair-gallery-2016",
+        "visibility": "public",
+        "language": "C",
+        "kind": "web-php"
+      },
+      {
+        "name": "srv-mail",
+        "visibility": "private",
+        "language": "Java",
+        "kind": "sysadmin"
+      }
+    ]
+  },
+  {
+    "month": "2017-01",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2017-02",
+    "count": 4,
+    "repos": [
+      {
+        "name": "sched-irq-2017",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "pyops-inventory-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "python-ops"
+      },
+      {
+        "name": "sysctl-cfs-2017",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "ctl-watch-lab",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "python-ops"
+      }
+    ]
+  },
+  {
+    "month": "2017-03",
+    "count": 4,
+    "repos": [
+      {
+        "name": "play-sshd",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "wgtravel",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "vpn"
+      },
+      {
+        "name": "fleet-report-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "python-ops"
+      },
+      {
+        "name": "node-disk-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "monitor"
+      }
+    ]
+  },
+  {
+    "month": "2017-04",
+    "count": 4,
+    "repos": [
+      {
+        "name": "edge-limit-2017",
+        "visibility": "private",
+        "language": "C",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "pyopswatch",
+        "visibility": "public",
+        "language": "Go",
+        "kind": "python-ops"
+      },
+      {
+        "name": "tunsite2site",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "vpn"
+      },
+      {
+        "name": "sysctl-cfs",
+        "visibility": "public",
+        "language": "C",
+        "kind": "kernel-notes"
+      }
+    ]
+  },
+  {
+    "month": "2017-05",
+    "count": 7,
+    "repos": [
+      {
+        "name": "resticcold",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "backup"
+      },
+      {
+        "name": "resticrotate",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "backup"
+      },
+      {
+        "name": "pyops-rotate",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "prom-load",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "monitor"
+      },
+      {
+        "name": "fleet-watch-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "python-ops"
+      },
+      {
+        "name": "wg-travel",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "vpn"
+      },
+      {
+        "name": "roledocker",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2017-06",
+    "count": 4,
+    "repos": [
+      {
+        "name": "restic-rotate",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "backup"
+      },
+      {
+        "name": "wg-travel-2017",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "vpn"
+      },
+      {
+        "name": "edgelimit",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "ctl-watch-2017",
+        "visibility": "private",
+        "language": null,
+        "kind": "python-ops"
+      }
+    ]
+  },
+  {
+    "month": "2017-07",
+    "count": 5,
+    "repos": [
+      {
+        "name": "fleetinventory",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "sysctl-cfs-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "jump-home-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "vpn"
+      },
+      {
+        "name": "node-cert-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "monitor"
+      },
+      {
+        "name": "sysctlbbr",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "kernel-notes"
+      }
+    ]
+  },
+  {
+    "month": "2017-08",
+    "count": 5,
+    "repos": [
+      {
+        "name": "health-cert-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "monitor"
+      },
+      {
+        "name": "wg-site2site-2017",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "vpn"
+      },
+      {
+        "name": "play-docker-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "role-docker-lab",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "play-postgres",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2017-09",
+    "count": 5,
+    "repos": [
+      {
+        "name": "inv-sshd",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "knotes-bbr-2017",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "healthdisk",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "monitor"
+      },
+      {
+        "name": "pyops-watch-2017",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "play-caddy",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2017-10",
+    "count": 4,
+    "repos": [
+      {
+        "name": "invcaddy",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "restic-verify",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "backup"
+      },
+      {
+        "name": "tun-home",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "vpn"
+      },
+      {
+        "name": "role-caddy-2017",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2017-11",
+    "count": 7,
+    "repos": [
+      {
+        "name": "sysctl-tcp",
+        "visibility": "public",
+        "language": "Nginx",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "fleet-report",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "inv-nft",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "knotes-cfs-2017",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "health-disk-lab",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "monitor"
+      },
+      {
+        "name": "role-docker",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "borg-cold",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "backup"
+      }
+    ]
+  },
+  {
+    "month": "2017-12",
+    "count": 7,
+    "repos": [
+      {
+        "name": "wg-home-2017",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "vpn"
+      },
+      {
+        "name": "ctl-watch",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "sched-irq-lab",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "health-smart-2017",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "monitor"
+      },
+      {
+        "name": "rolepostgres",
+        "visibility": "private",
+        "language": "C",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "play-caddy-2017",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "healthcert",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "monitor"
+      }
+    ]
+  },
+  {
+    "month": "2018-01",
+    "count": 4,
+    "repos": [
+      {
+        "name": "ctl-report",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "tun-lab",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "vpn"
+      },
+      {
+        "name": "proxy-tls",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "play-nft",
+        "visibility": "private",
+        "language": null,
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2018-02",
+    "count": 4,
+    "repos": [
+      {
+        "name": "ctl-rotate",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "python-ops"
+      },
+      {
+        "name": "sched-irq",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "restic-cold",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "backup"
+      },
+      {
+        "name": "sched-tcp-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "kernel-notes"
+      }
+    ]
+  },
+  {
+    "month": "2018-03",
+    "count": 5,
+    "repos": [
+      {
+        "name": "snap-rotate-2018",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "backup"
+      },
+      {
+        "name": "health-smart",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "monitor"
+      },
+      {
+        "name": "borg-cold-2018",
+        "visibility": "private",
+        "language": "C",
+        "kind": "backup"
+      },
+      {
+        "name": "borg-offsite",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "backup"
+      },
+      {
+        "name": "fleet-rotate-2018",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "python-ops"
+      }
+    ]
+  },
+  {
+    "month": "2018-04",
+    "count": 5,
+    "repos": [
+      {
+        "name": "sched-cfs-2018",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "tun-site2site",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "vpn"
+      },
+      {
+        "name": "snap-rotate",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "backup"
+      },
+      {
+        "name": "edgetls",
+        "visibility": "private",
+        "language": "C",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "healthload",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "monitor"
+      }
+    ]
+  },
+  {
+    "month": "2018-05",
+    "count": 6,
+    "repos": [
+      {
+        "name": "vhostlimit",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "proxy-auth",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "prom-ping",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "monitor"
+      },
+      {
+        "name": "proxy-ws-2018",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "fleet-watch",
+        "visibility": "private",
+        "language": "C",
+        "kind": "python-ops"
+      },
+      {
+        "name": "knotes-irq",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "kernel-notes"
+      }
+    ]
+  },
+  {
+    "month": "2018-06",
+    "count": 5,
+    "repos": [
+      {
+        "name": "play-sshd-2018",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "fleet-rotate",
+        "visibility": "public",
+        "language": "Go",
+        "kind": "python-ops"
+      },
+      {
+        "name": "borg-verify-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "backup"
+      },
+      {
+        "name": "wg-home",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "vpn"
+      },
+      {
+        "name": "snap-verify-lab",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "backup"
+      }
+    ]
+  },
+  {
+    "month": "2018-07",
+    "count": 5,
+    "repos": [
+      {
+        "name": "role-nft-lab",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "sysctl-bbr",
+        "visibility": "private",
+        "language": "C",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "tun-site2site-2018",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "vpn"
+      },
+      {
+        "name": "knotes-irq-2018",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "node-disk",
+        "visibility": "private",
+        "language": "C",
+        "kind": "monitor"
+      }
+    ]
+  },
+  {
+    "month": "2018-08",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2018-09",
+    "count": 5,
+    "repos": [
+      {
+        "name": "role-sshd",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "health-cert",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "monitor"
+      },
+      {
+        "name": "sysctl-numa",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "fleet-inventory",
+        "visibility": "public",
+        "language": "C",
+        "kind": "python-ops"
+      },
+      {
+        "name": "edge-auth",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "nginx-edge"
+      }
+    ]
+  },
+  {
+    "month": "2018-10",
+    "count": 7,
+    "repos": [
+      {
+        "name": "restic-verify-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "backup"
+      },
+      {
+        "name": "pyops-inventory",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "edge-limit",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "vhost-ws-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "snap-verify",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "backup"
+      },
+      {
+        "name": "sysctl-irq",
+        "visibility": "public",
+        "language": null,
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "proxy-static-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "nginx-edge"
+      }
+    ]
+  },
+  {
+    "month": "2018-11",
+    "count": 7,
+    "repos": [
+      {
+        "name": "nodedisk",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "monitor"
+      },
+      {
+        "name": "role-docker-2018",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "inv-docker",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "borg-verify-2018",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "backup"
+      },
+      {
+        "name": "prom-cert",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "monitor"
+      },
+      {
+        "name": "inv-caddy",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "tun-travel",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "vpn"
+      }
+    ]
+  },
+  {
+    "month": "2018-12",
+    "count": 5,
+    "repos": [
+      {
+        "name": "restic-cold-2018",
+        "visibility": "public",
+        "language": "C",
+        "kind": "backup"
+      },
+      {
+        "name": "ctlinventory",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "python-ops"
+      },
+      {
+        "name": "vhost-tls",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "play-docker-2018",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "schedbbr",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "kernel-notes"
+      }
+    ]
+  },
+  {
+    "month": "2019-01",
+    "count": 4,
+    "repos": [
+      {
+        "name": "restic-rotate-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "backup"
+      },
+      {
+        "name": "health-cert-2019",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "monitor"
+      },
+      {
+        "name": "edge-static",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "jump-travel",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "vpn"
+      }
+    ]
+  },
+  {
+    "month": "2019-02",
+    "count": 1,
+    "repos": [
+      {
+        "name": "ctl-report-lab",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "python-ops"
+      }
+    ]
+  },
+  {
+    "month": "2019-03",
+    "count": 7,
+    "repos": [
+      {
+        "name": "jump-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "vpn"
+      },
+      {
+        "name": "fleetreport",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "wg-site2site-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "vpn"
+      },
+      {
+        "name": "schednuma",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "sysctlcfs",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "role-nft-2019",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "vhost-ws-2019",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "nginx-edge"
+      }
+    ]
+  },
+  {
+    "month": "2019-04",
+    "count": 4,
+    "repos": [
+      {
+        "name": "inv-postgres-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "vhost-auth",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "node-ping-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "monitor"
+      },
+      {
+        "name": "jump-site2site",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "vpn"
+      }
+    ]
+  },
+  {
+    "month": "2019-05",
+    "count": 5,
+    "repos": [
+      {
+        "name": "prom-load-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "monitor"
+      },
+      {
+        "name": "sched-numa-2019",
+        "visibility": "public",
+        "language": "PHP",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "playsshd",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "proxy-ws-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "vhost-ws",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "nginx-edge"
+      }
+    ]
+  },
+  {
+    "month": "2019-06",
+    "count": 7,
+    "repos": [
+      {
+        "name": "vhostauth",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "vhostws",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "role-postgres",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "vhost-auth-2019",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "pyops-report-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "python-ops"
+      },
+      {
+        "name": "edge-limit-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "playnft",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2019-07",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2019-08",
+    "count": 1,
+    "repos": [
+      {
+        "name": "snapverify",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "backup"
+      }
+    ]
+  },
+  {
+    "month": "2019-09",
+    "count": 5,
+    "repos": [
+      {
+        "name": "fleet-rotate-2019",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "python-ops"
+      },
+      {
+        "name": "health-ping-2019",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "monitor"
+      },
+      {
+        "name": "wghome",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "vpn"
+      },
+      {
+        "name": "edge-auth-2019",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "proxystatic",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "nginx-edge"
+      }
+    ]
+  },
+  {
+    "month": "2019-10",
+    "count": 11,
+    "repos": [
+      {
+        "name": "jump-lab-2019",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "vpn"
+      },
+      {
+        "name": "sched-cfs-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "proxy-limit-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "knotes-cfs-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "edge-static-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "pyops-watch-2019",
+        "visibility": "public",
+        "language": "Go",
+        "kind": "python-ops"
+      },
+      {
+        "name": "pyops-report",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "python-ops"
+      },
+      {
+        "name": "ctl-watch-2019",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "python-ops"
+      },
+      {
+        "name": "knotes-tcp-2019",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "kernel-notes"
+      },
+      {
+        "name": "inv-sshd-2019",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ansible-role"
+      },
+      {
+        "name": "role-caddy",
+        "visibility": "private",
+        "language": "Go",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2019-11",
+    "count": 2,
+    "repos": [
+      {
+        "name": "proxy-limit",
+        "visibility": "public",
+        "language": "C",
+        "kind": "nginx-edge"
+      },
+      {
+        "name": "play-caddy-lab",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "ansible-role"
+      }
+    ]
+  },
+  {
+    "month": "2019-12",
+    "count": 3,
+    "repos": [
+      {
+        "name": "fleet-inventory-2019",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "python-ops"
+      },
+      {
+        "name": "prom-smart-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "monitor"
+      },
+      {
+        "name": "vhost-tls-lab",
+        "visibility": "private",
+        "language": "PHP",
+        "kind": "nginx-edge"
+      }
+    ]
+  },
+  {
+    "month": "2020-01",
+    "count": 6,
+    "repos": [
+      {
+        "name": "vis-clahe",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "tlm-map-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gcs"
+      },
+      {
+        "name": "rtos-net",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "mav-failsafe",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "autopilot"
+      },
+      {
+        "name": "fury-ui-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gsoc"
+      },
+      {
+        "name": "tlmlog",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      }
+    ]
+  },
+  {
+    "month": "2020-02",
+    "count": 4,
+    "repos": [
+      {
+        "name": "enhance-track-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "notescv",
+        "visibility": "public",
+        "language": "JavaScript",
+        "kind": "site"
+      },
+      {
+        "name": "viz-shader-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gsoc"
+      },
+      {
+        "name": "wikicv",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "site"
+      }
+    ]
+  },
+  {
+    "month": "2020-03",
+    "count": 6,
+    "repos": [
+      {
+        "name": "pages-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "site"
+      },
+      {
+        "name": "enhance-dehaze-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "structskiplist",
+        "visibility": "public",
+        "language": "JavaScript",
+        "kind": "algo"
+      },
+      {
+        "name": "vis-yolo-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "ds-graph-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "algo"
+      },
+      {
+        "name": "mav-nav",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "autopilot"
+      }
+    ]
+  },
+  {
+    "month": "2020-04",
+    "count": 5,
+    "repos": [
+      {
+        "name": "nuttx-fs",
+        "visibility": "private",
+        "language": "C",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "uuvcam-track-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "ground-rc-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      },
+      {
+        "name": "apm-failsafe-2020",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "autopilot"
+      },
+      {
+        "name": "rtosi2c",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "firmware-lab"
+      }
+    ]
+  },
+  {
+    "month": "2020-05",
+    "count": 5,
+    "repos": [
+      {
+        "name": "rtos-net-2020",
+        "visibility": "private",
+        "language": "C",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "visstereo",
+        "visibility": "private",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "viz-ui-2020",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "gsoc"
+      },
+      {
+        "name": "ground-map-2020",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "gcs"
+      },
+      {
+        "name": "apm-nav-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "autopilot"
+      }
+    ]
+  },
+  {
+    "month": "2020-06",
+    "count": 6,
+    "repos": [
+      {
+        "name": "zephyr-fs-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "uuvcamtrack",
+        "visibility": "private",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "fcfailsafe",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "autopilot"
+      },
+      {
+        "name": "pages-cv",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "site"
+      },
+      {
+        "name": "vis-dehaze-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "pageslab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "site"
+      }
+    ]
+  },
+  {
+    "month": "2020-07",
+    "count": 5,
+    "repos": [
+      {
+        "name": "ground-log-2020",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gcs"
+      },
+      {
+        "name": "pages-garden-2020",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "site"
+      },
+      {
+        "name": "apm-failsafe",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "autopilot"
+      },
+      {
+        "name": "viz-actor-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "gsoc"
+      },
+      {
+        "name": "zephyr-i2c",
+        "visibility": "private",
+        "language": "C",
+        "kind": "firmware-lab"
+      }
+    ]
+  },
+  {
+    "month": "2020-08",
+    "count": 2,
+    "repos": [
+      {
+        "name": "notes-cv-2020",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "site"
+      },
+      {
+        "name": "uuvcam-clahe-2020",
+        "visibility": "private",
+        "language": "JavaScript",
+        "kind": "vision"
+      }
+    ]
+  },
+  {
+    "month": "2020-09",
+    "count": 4,
+    "repos": [
+      {
+        "name": "apm-ekf-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "autopilot"
+      },
+      {
+        "name": "vis-track",
+        "visibility": "public",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "ground-plot",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      },
+      {
+        "name": "notes-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "site"
+      }
+    ]
+  },
+  {
+    "month": "2020-10",
+    "count": 11,
+    "repos": [
+      {
+        "name": "nuttx-shell-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "fury-actor",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gsoc"
+      },
+      {
+        "name": "ds-skiplist-2020",
+        "visibility": "public",
+        "language": "C",
+        "kind": "algo"
+      },
+      {
+        "name": "algotrie",
+        "visibility": "public",
+        "language": "MATLAB",
+        "kind": "algo"
+      },
+      {
+        "name": "apm-mix-2020",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "autopilot"
+      },
+      {
+        "name": "fury-shader",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gsoc"
+      },
+      {
+        "name": "mav-mix",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "autopilot"
+      },
+      {
+        "name": "struct-graph-lab",
+        "visibility": "private",
+        "language": "JavaScript",
+        "kind": "algo"
+      },
+      {
+        "name": "rtos-fs-2020",
+        "visibility": "public",
+        "language": "C",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "uuvcam-stereo-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "gcs-plot-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "gcs"
+      }
+    ]
+  },
+  {
+    "month": "2020-11",
+    "count": 4,
+    "repos": [
+      {
+        "name": "gcs-rc",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      },
+      {
+        "name": "ground-hud",
+        "visibility": "private",
+        "language": "JavaScript",
+        "kind": "gcs"
+      },
+      {
+        "name": "pages-log-2020",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "site"
+      },
+      {
+        "name": "struct-bloom-2020",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "algo"
+      }
+    ]
+  },
+  {
+    "month": "2020-12",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2021-01",
+    "count": 7,
+    "repos": [
+      {
+        "name": "enhance-track",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "vision"
+      },
+      {
+        "name": "zephyr-fs",
+        "visibility": "private",
+        "language": "MATLAB",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "wikilab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "site"
+      },
+      {
+        "name": "fc-nav-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "autopilot"
+      },
+      {
+        "name": "uuvcam-track-2021",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "fury-scene-2021",
+        "visibility": "private",
+        "language": "JavaScript",
+        "kind": "gsoc"
+      },
+      {
+        "name": "viz-actor",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gsoc"
+      }
+    ]
+  },
+  {
+    "month": "2021-02",
+    "count": 4,
+    "repos": [
+      {
+        "name": "struct-skiplist",
+        "visibility": "private",
+        "language": "C",
+        "kind": "algo"
+      },
+      {
+        "name": "enhancetrack",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "vision"
+      },
+      {
+        "name": "zephyrfs",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "fc-mix",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "autopilot"
+      }
+    ]
+  },
+  {
+    "month": "2021-03",
+    "count": 6,
+    "repos": [
+      {
+        "name": "viz-scene-2021",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gsoc"
+      },
+      {
+        "name": "tlm-hud-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      },
+      {
+        "name": "fury-actor-2021",
+        "visibility": "public",
+        "language": "C",
+        "kind": "gsoc"
+      },
+      {
+        "name": "vistrack",
+        "visibility": "public",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "vis-dehaze-2021",
+        "visibility": "public",
+        "language": "C",
+        "kind": "vision"
+      },
+      {
+        "name": "ground-log",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "gcs"
+      }
+    ]
+  },
+  {
+    "month": "2021-04",
+    "count": 6,
+    "repos": [
+      {
+        "name": "groundhud",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gcs"
+      },
+      {
+        "name": "viz-ui",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "gsoc"
+      },
+      {
+        "name": "algoheap",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "algo"
+      },
+      {
+        "name": "fcnav",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "autopilot"
+      },
+      {
+        "name": "struct-bloom",
+        "visibility": "private",
+        "language": "C",
+        "kind": "algo"
+      },
+      {
+        "name": "gsocshader",
+        "visibility": "public",
+        "language": "C",
+        "kind": "gsoc"
+      }
+    ]
+  },
+  {
+    "month": "2021-05",
+    "count": 4,
+    "repos": [
+      {
+        "name": "gsoc-scene",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gsoc"
+      },
+      {
+        "name": "notes-log",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "site"
+      },
+      {
+        "name": "nuttx-shell-2021",
+        "visibility": "private",
+        "language": "C",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "nuttxnet",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "firmware-lab"
+      }
+    ]
+  },
+  {
+    "month": "2021-06",
+    "count": 5,
+    "repos": [
+      {
+        "name": "vis-clahe-2021",
+        "visibility": "public",
+        "language": "JavaScript",
+        "kind": "vision"
+      },
+      {
+        "name": "tlm-rc",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "gcs"
+      },
+      {
+        "name": "gcs-hud-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      },
+      {
+        "name": "apm-failsafe-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "autopilot"
+      },
+      {
+        "name": "zephyr-net",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "firmware-lab"
+      }
+    ]
+  },
+  {
+    "month": "2021-07",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2021-08",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2021-09",
+    "count": 7,
+    "repos": [
+      {
+        "name": "wiki-log-2021",
+        "visibility": "private",
+        "language": "JavaScript",
+        "kind": "site"
+      },
+      {
+        "name": "wiki-cv",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "site"
+      },
+      {
+        "name": "nuttx-i2c-lab",
+        "visibility": "private",
+        "language": "JavaScript",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "notes-garden-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "site"
+      },
+      {
+        "name": "vis-track-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "vision"
+      },
+      {
+        "name": "notes-garden",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "site"
+      },
+      {
+        "name": "fury-scene",
+        "visibility": "public",
+        "language": "MATLAB",
+        "kind": "gsoc"
+      }
+    ]
+  },
+  {
+    "month": "2021-10",
+    "count": 7,
+    "repos": [
+      {
+        "name": "enhance-stereo-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "vision"
+      },
+      {
+        "name": "struct-bloom-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "algo"
+      },
+      {
+        "name": "algo-heap",
+        "visibility": "public",
+        "language": "C",
+        "kind": "algo"
+      },
+      {
+        "name": "struct-trie-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "algo"
+      },
+      {
+        "name": "tlm-log-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gcs"
+      },
+      {
+        "name": "algo-heap-2021",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "algo"
+      },
+      {
+        "name": "apm-nav-2021",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "autopilot"
+      }
+    ]
+  },
+  {
+    "month": "2021-11",
+    "count": 6,
+    "repos": [
+      {
+        "name": "wiki-garden",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "site"
+      },
+      {
+        "name": "ds-trie-2021",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "algo"
+      },
+      {
+        "name": "algoskiplist",
+        "visibility": "public",
+        "language": null,
+        "kind": "algo"
+      },
+      {
+        "name": "notes-log-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "site"
+      },
+      {
+        "name": "vis-yolo",
+        "visibility": "public",
+        "language": "JavaScript",
+        "kind": "vision"
+      },
+      {
+        "name": "uuvcamclahe",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "vision"
+      }
+    ]
+  },
+  {
+    "month": "2021-12",
+    "count": 6,
+    "repos": [
+      {
+        "name": "ground-plot-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gcs"
+      },
+      {
+        "name": "vizshader",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "gsoc"
+      },
+      {
+        "name": "enhance-yolo",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "vision"
+      },
+      {
+        "name": "nuttx-net",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "firmware-lab"
+      },
+      {
+        "name": "ground-hud-2021",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "gcs"
+      },
+      {
+        "name": "zephyrnet",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "firmware-lab"
+      }
+    ]
+  },
+  {
+    "month": "2022-01",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2022-02",
+    "count": 5,
+    "repos": [
+      {
+        "name": "pages-log",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "site"
+      },
+      {
+        "name": "tlm-plot-lab",
+        "visibility": "public",
+        "language": "C",
+        "kind": "gcs"
+      },
+      {
+        "name": "structheap",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "algo"
+      },
+      {
+        "name": "algobloom",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "algo"
+      },
+      {
+        "name": "gsoc-actor",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "gsoc"
+      }
+    ]
+  },
+  {
+    "month": "2022-03",
+    "count": 7,
+    "repos": [
+      {
+        "name": "rtls-tag-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "slab-rs",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "way-lock",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rice"
+      },
+      {
+        "name": "drv-adc-2022",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "deskflash",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "osdp-scbk",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      },
+      {
+        "name": "hypr-notif-2022",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rice"
+      }
+    ]
+  },
+  {
+    "month": "2022-04",
+    "count": 7,
+    "repos": [
+      {
+        "name": "desk-map-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "fieldcal",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "aeadgcm",
+        "visibility": "private",
+        "language": "C",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "codec-rs",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "nvimterm",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rice"
+      },
+      {
+        "name": "pd-pdcap-2022",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "osdp"
+      },
+      {
+        "name": "deskmap",
+        "visibility": "private",
+        "language": "C",
+        "kind": "tauri-tool"
+      }
+    ]
+  },
+  {
+    "month": "2022-05",
+    "count": 6,
+    "repos": [
+      {
+        "name": "osdp-scbk-2022",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      },
+      {
+        "name": "pd-crc",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      },
+      {
+        "name": "drv-i2c",
+        "visibility": "private",
+        "language": "C",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "field-flash-2022",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "uwb-tag",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "uwb-tag-lab",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "uwb-rtls"
+      }
+    ]
+  },
+  {
+    "month": "2022-06",
+    "count": 5,
+    "repos": [
+      {
+        "name": "rtls-tag",
+        "visibility": "private",
+        "language": "C",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "desk-map",
+        "visibility": "private",
+        "language": "C",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "osdp-crc-2022",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "osdp"
+      },
+      {
+        "name": "tauri-flash",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "lib-codec",
+        "visibility": "public",
+        "language": "C",
+        "kind": "rust-lib"
+      }
+    ]
+  },
+  {
+    "month": "2022-07",
+    "count": 4,
+    "repos": [
+      {
+        "name": "lib-queue",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "crate-slab-lab",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "rtlsanchor",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "field-log",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "tauri-tool"
+      }
+    ]
+  },
+  {
+    "month": "2022-08",
+    "count": 7,
+    "repos": [
+      {
+        "name": "way-term-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "rice"
+      },
+      {
+        "name": "busi2c",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "way-bar-2022",
+        "visibility": "private",
+        "language": "C",
+        "kind": "rice"
+      },
+      {
+        "name": "authc-hkdf-2022",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "desk-log-2022",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "acp-secure",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "osdp"
+      },
+      {
+        "name": "busuart",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rtos-driver"
+      }
+    ]
+  },
+  {
+    "month": "2022-09",
+    "count": 6,
+    "repos": [
+      {
+        "name": "hypr-lock",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rice"
+      },
+      {
+        "name": "hypr-notif",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "rice"
+      },
+      {
+        "name": "authc-nonce-2022",
+        "visibility": "private",
+        "language": "C",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "rs-slab",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "osdppdcap",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "authc-cmac-2022",
+        "visibility": "public",
+        "language": "C",
+        "kind": "crypto-c"
+      }
+    ]
+  },
+  {
+    "month": "2022-10",
+    "count": 6,
+    "repos": [
+      {
+        "name": "hyprlock",
+        "visibility": "public",
+        "language": "C",
+        "kind": "rice"
+      },
+      {
+        "name": "hal-uart",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "tauri-map-2022",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "authc-hkdf",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "pdsecure",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "waylock",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "rice"
+      }
+    ]
+  },
+  {
+    "month": "2022-11",
+    "count": 4,
+    "repos": [
+      {
+        "name": "hal-spi",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "cratebytes",
+        "visibility": "private",
+        "language": "C",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "sbox-hkdf-2022",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "way-notif",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rice"
+      }
+    ]
+  },
+  {
+    "month": "2022-12",
+    "count": 9,
+    "repos": [
+      {
+        "name": "desk-cal",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "desk-flash",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "tdoa-ekf-2022",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "drv-i2c-2022",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "bus-uart",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "tdoa-anchor-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "osdp-secure-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "bus-adc-lab",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "drv-uart-2022",
+        "visibility": "private",
+        "language": "C",
+        "kind": "rtos-driver"
+      }
+    ]
+  },
+  {
+    "month": "2023-01",
+    "count": 5,
+    "repos": [
+      {
+        "name": "drv-uart",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "uwb-cal",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "lib-bytes",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "pd-pdcap-2023",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      },
+      {
+        "name": "bus-i2c",
+        "visibility": "private",
+        "language": "C",
+        "kind": "rtos-driver"
+      }
+    ]
+  },
+  {
+    "month": "2023-02",
+    "count": 4,
+    "repos": [
+      {
+        "name": "uwb-ekf-2023",
+        "visibility": "private",
+        "language": "C",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "hal-adc-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "pd-secure-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "osdp"
+      },
+      {
+        "name": "crate-codec-2023",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rust-lib"
+      }
+    ]
+  },
+  {
+    "month": "2023-03",
+    "count": 7,
+    "repos": [
+      {
+        "name": "field-flash-2023",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "rtls-anchor-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "hal-adc",
+        "visibility": "private",
+        "language": "C",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "pd-crc-2023",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "crate-queue-lab",
+        "visibility": "public",
+        "language": "TypeScript",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "tdoaekf",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "crate-queue",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "rust-lib"
+      }
+    ]
+  },
+  {
+    "month": "2023-04",
+    "count": 6,
+    "repos": [
+      {
+        "name": "aeadhkdf",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "hypr-term-2023",
+        "visibility": "public",
+        "language": "C",
+        "kind": "rice"
+      },
+      {
+        "name": "tdoa-tag",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "bus-i2c-2023",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "hypr-term-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rice"
+      },
+      {
+        "name": "acpcrc",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "osdp"
+      }
+    ]
+  },
+  {
+    "month": "2023-05",
+    "count": 7,
+    "repos": [
+      {
+        "name": "drv-spi-2023",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "osdp-pdcap",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      },
+      {
+        "name": "lib-bytes-2023",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "crate-codec-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "uwbanchor",
+        "visibility": "private",
+        "language": "C",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "bus-can-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "drv-can",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rtos-driver"
+      }
+    ]
+  },
+  {
+    "month": "2023-06",
+    "count": 4,
+    "repos": [
+      {
+        "name": "authc-gcm",
+        "visibility": "private",
+        "language": "C",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "uwb-cal-2023",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "osdp-pdcap-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "osdp"
+      },
+      {
+        "name": "acp-scbk-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "osdp"
+      }
+    ]
+  },
+  {
+    "month": "2023-07",
+    "count": 1,
+    "repos": [
+      {
+        "name": "fieldmap",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "tauri-tool"
+      }
+    ]
+  },
+  {
+    "month": "2023-08",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2023-09",
+    "count": 4,
+    "repos": [
+      {
+        "name": "rscodec",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "rs-slab-2023",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "buscan",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "rtos-driver"
+      },
+      {
+        "name": "aead-nonce-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "crypto-c"
+      }
+    ]
+  },
+  {
+    "month": "2023-10",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2023-11",
+    "count": 7,
+    "repos": [
+      {
+        "name": "osdp-secure",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "tauri-flash-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "aead-cmac-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "tdoa-ekf",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "queue-rs",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "lib-bytes-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "acp-pdcap",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      }
+    ]
+  },
+  {
+    "month": "2023-12",
+    "count": 6,
+    "repos": [
+      {
+        "name": "field-flash-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "sbox-cmac",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "crate-slab-2023",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "tdoatag",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "acppdcap",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "bus-adc",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "rtos-driver"
+      }
+    ]
+  },
+  {
+    "month": "2024-01",
+    "count": 7,
+    "repos": [
+      {
+        "name": "authc-gcm-2024",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "hypr-bar-2024",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rice"
+      },
+      {
+        "name": "aead-gcm",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "crypto-c"
+      },
+      {
+        "name": "desk-cal-lab",
+        "visibility": "public",
+        "language": "TypeScript",
+        "kind": "tauri-tool"
+      },
+      {
+        "name": "lib-bytes-2024",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "uwb-cal-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "uwb-rtls"
+      },
+      {
+        "name": "aead-hkdf",
+        "visibility": "private",
+        "language": "C",
+        "kind": "crypto-c"
+      }
+    ]
+  },
+  {
+    "month": "2024-02",
+    "count": 5,
+    "repos": [
+      {
+        "name": "pdcrc",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "osdp"
+      },
+      {
+        "name": "acpscbk",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "osdp"
+      },
+      {
+        "name": "lib-codec-lab",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "rust-lib"
+      },
+      {
+        "name": "acp-secure-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "osdp"
+      },
+      {
+        "name": "nvim-bar",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "rice"
+      }
+    ]
+  },
+  {
+    "month": "2024-03",
+    "count": 6,
+    "repos": [
+      {
+        "name": "probe-trace-lab",
+        "visibility": "private",
+        "language": "C",
+        "kind": "aya-probe"
+      },
+      {
+        "name": "xdp-bench",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "xdp-lab"
+      },
+      {
+        "name": "cbrecover",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "frer"
+      },
+      {
+        "name": "as-phc",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "ptp"
+      },
+      {
+        "name": "meta-initramfs",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "yocto-layer"
+      },
+      {
+        "name": "frerrecover",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "frer"
+      }
+    ]
+  },
+  {
+    "month": "2024-04",
+    "count": 4,
+    "repos": [
+      {
+        "name": "cb-match-2024",
+        "visibility": "private",
+        "language": "C",
+        "kind": "frer"
+      },
+      {
+        "name": "kprobe-xdp-2024",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "aya-probe"
+      },
+      {
+        "name": "xdpredirect",
+        "visibility": "private",
+        "language": "C",
+        "kind": "xdp-lab"
+      },
+      {
+        "name": "phc-delay",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "ptp"
+      }
+    ]
+  },
+  {
+    "month": "2024-05",
+    "count": 1,
+    "repos": [
+      {
+        "name": "frer-latent-2024",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "frer"
+      }
+    ]
+  },
+  {
+    "month": "2024-06",
+    "count": 11,
+    "repos": [
+      {
+        "name": "asphc",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "ptp"
+      },
+      {
+        "name": "as-delay-lab",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "ptp"
+      },
+      {
+        "name": "frer-recover-2024",
+        "visibility": "private",
+        "language": "C",
+        "kind": "frer"
+      },
+      {
+        "name": "kprobe-xdp-lab",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "aya-probe"
+      },
+      {
+        "name": "drop-bench-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "xdp-lab"
+      },
+      {
+        "name": "phc-sync",
+        "visibility": "private",
+        "language": "BitBake",
+        "kind": "ptp"
+      },
+      {
+        "name": "metakernel",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "yocto-layer"
+      },
+      {
+        "name": "xdp-map",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "xdp-lab"
+      },
+      {
+        "name": "schedsimgate",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "net-sim"
+      },
+      {
+        "name": "cb-latent-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "frer"
+      },
+      {
+        "name": "aya-trace",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "aya-probe"
+      }
+    ]
+  },
+  {
+    "month": "2024-07",
+    "count": 7,
+    "repos": [
+      {
+        "name": "search-surreal",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "search"
+      },
+      {
+        "name": "searchsurreal",
+        "visibility": "public",
+        "language": "TypeScript",
+        "kind": "search"
+      },
+      {
+        "name": "retr-rerank-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rag"
+      },
+      {
+        "name": "waf-dns",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "infra"
+      },
+      {
+        "name": "tui-worktree",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "editor"
+      },
+      {
+        "name": "toolcall-flush-lab",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "rtcjitter",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "webrtc"
+      }
+    ]
+  },
+  {
+    "month": "2024-08",
+    "count": 5,
+    "repos": [
+      {
+        "name": "lab-caddy-2024",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "infra"
+      },
+      {
+        "name": "toolcallflush",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "sessbarge",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "vm-lexer-2024",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "os-lang"
+      },
+      {
+        "name": "toolcall-supervisor-2024",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "agent-runtime"
+      }
+    ]
+  },
+  {
+    "month": "2024-09",
+    "count": 6,
+    "repos": [
+      {
+        "name": "rtc-nack",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "webrtc"
+      },
+      {
+        "name": "idxcrawl",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "search"
+      },
+      {
+        "name": "searchcrawl",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "search"
+      },
+      {
+        "name": "emb-hybrid",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "rag"
+      },
+      {
+        "name": "lang-sched",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "os-lang"
+      },
+      {
+        "name": "wafbackup",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "infra"
+      }
+    ]
+  },
+  {
+    "month": "2024-10",
+    "count": 4,
+    "repos": [
+      {
+        "name": "ed-picker",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "editor"
+      },
+      {
+        "name": "os-boot-lab",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "os-lang"
+      },
+      {
+        "name": "retrrerank",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "rag"
+      },
+      {
+        "name": "sfu-srtp",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "webrtc"
+      }
+    ]
+  },
+  {
+    "month": "2024-11",
+    "count": 6,
+    "repos": [
+      {
+        "name": "emb-chunk",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rag"
+      },
+      {
+        "name": "toolcallturn",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "crawl-tantivy",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "search"
+      },
+      {
+        "name": "retr-chunk-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "os-sched",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "os-lang"
+      },
+      {
+        "name": "rtcnack",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "webrtc"
+      }
+    ]
+  },
+  {
+    "month": "2024-12",
+    "count": 5,
+    "repos": [
+      {
+        "name": "ragcache",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "emb-chunk-2024",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "search-tantivy-2024",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "search"
+      },
+      {
+        "name": "emb-cache-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "idx-surreal-2024",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "search"
+      }
+    ]
+  },
+  {
+    "month": "2025-01",
+    "count": 8,
+    "repos": [
+      {
+        "name": "vm-gc",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "os-lang"
+      },
+      {
+        "name": "vm-gc-2025",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "os-lang"
+      },
+      {
+        "name": "toolcall-turn-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "edge-auth-2025",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "infra"
+      },
+      {
+        "name": "edgeauth",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "infra"
+      },
+      {
+        "name": "edge-dns",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "infra"
+      },
+      {
+        "name": "sess-turn",
+        "visibility": "private",
+        "language": "Dart",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "toolcallsupervisor",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "agent-runtime"
+      }
+    ]
+  },
+  {
+    "month": "2025-02",
+    "count": 7,
+    "repos": [
+      {
+        "name": "ed-helix-lab",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "editor"
+      },
+      {
+        "name": "lab-caddy-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "infra"
+      },
+      {
+        "name": "idx-surreal",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "search"
+      },
+      {
+        "name": "rag-chunk",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "jitter-jitter-2025",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "webrtc"
+      },
+      {
+        "name": "tui-diff",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "editor"
+      },
+      {
+        "name": "idx-surreal-2025",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "search"
+      }
+    ]
+  },
+  {
+    "month": "2025-03",
+    "count": 4,
+    "repos": [
+      {
+        "name": "ed-worktree",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "editor"
+      },
+      {
+        "name": "sfu-ice",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "webrtc"
+      },
+      {
+        "name": "app-pulse",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "frontend"
+      },
+      {
+        "name": "crawl-crawl-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "search"
+      }
+    ]
+  },
+  {
+    "month": "2025-04",
+    "count": 5,
+    "repos": [
+      {
+        "name": "idx-tantivy",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "search"
+      },
+      {
+        "name": "edge-backup-2025",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "infra"
+      },
+      {
+        "name": "sesssupervisor",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "lab-dns-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      },
+      {
+        "name": "kit-reader-2025",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "frontend"
+      }
+    ]
+  },
+  {
+    "month": "2025-05",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2025-06",
+    "count": 2,
+    "repos": [
+      {
+        "name": "edpicker",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "editor"
+      },
+      {
+        "name": "edgebackup",
+        "visibility": "private",
+        "language": "Dart",
+        "kind": "infra"
+      }
+    ]
+  },
+  {
+    "month": "2025-07",
+    "count": 5,
+    "repos": [
+      {
+        "name": "app-cockpit",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "frontend"
+      },
+      {
+        "name": "wt-picker-lab",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "editor"
+      },
+      {
+        "name": "lab-caddy-2025",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "infra"
+      },
+      {
+        "name": "agent-flush-2025",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "emb-chunk-2025",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "rag"
+      }
+    ]
+  },
+  {
+    "month": "2025-08",
+    "count": 5,
+    "repos": [
+      {
+        "name": "crawl-tantivy-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "search"
+      },
+      {
+        "name": "emb-hybrid-lab",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rag"
+      },
+      {
+        "name": "toolcallbarge",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "lab-auth",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      },
+      {
+        "name": "uireader",
+        "visibility": "public",
+        "language": "TypeScript",
+        "kind": "frontend"
+      }
+    ]
+  },
+  {
+    "month": "2025-09",
+    "count": 0,
+    "repos": []
+  },
+  {
+    "month": "2025-10",
+    "count": 5,
+    "repos": [
+      {
+        "name": "tui-diff-lab",
+        "visibility": "public",
+        "language": "TypeScript",
+        "kind": "editor"
+      },
+      {
+        "name": "kit-cockpit",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "frontend"
+      },
+      {
+        "name": "emb-cache",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rag"
+      },
+      {
+        "name": "waf-caddy-2025",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      },
+      {
+        "name": "rag-cache",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      }
+    ]
+  },
+  {
+    "month": "2025-11",
+    "count": 11,
+    "repos": [
+      {
+        "name": "lab-backup",
+        "visibility": "private",
+        "language": "Dart",
+        "kind": "infra"
+      },
+      {
+        "name": "waf-auth-2025",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "infra"
+      },
+      {
+        "name": "ragrerank",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "rag"
+      },
+      {
+        "name": "sess-flush",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "lang-gc-2025",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "os-lang"
+      },
+      {
+        "name": "wt-helix-lab",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "editor"
+      },
+      {
+        "name": "jitter-ice-2025",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "webrtc"
+      },
+      {
+        "name": "agent-supervisor-lab",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "wt-worktree",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "editor"
+      },
+      {
+        "name": "searchrank",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "search"
+      },
+      {
+        "name": "ed-diff",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "editor"
+      }
+    ]
+  },
+  {
+    "month": "2025-12",
+    "count": 4,
+    "repos": [
+      {
+        "name": "apppulse",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "frontend"
+      },
+      {
+        "name": "edhelix",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "editor"
+      },
+      {
+        "name": "vm-lexer",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "os-lang"
+      },
+      {
+        "name": "app-gcs-2025",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "frontend"
+      }
+    ]
+  },
+  {
+    "month": "2026-01",
+    "count": 5,
+    "repos": [
+      {
+        "name": "rtc-jitter-2026",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "webrtc"
+      },
+      {
+        "name": "os-gc",
+        "visibility": "private",
+        "language": "Shell",
+        "kind": "os-lang"
+      },
+      {
+        "name": "toolcall-barge-lab",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "kitgcs",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "frontend"
+      },
+      {
+        "name": "kit-gcs",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "frontend"
+      }
+    ]
+  },
+  {
+    "month": "2026-02",
+    "count": 1,
+    "repos": [
+      {
+        "name": "lab-backup-lab",
+        "visibility": "private",
+        "language": "C++",
+        "kind": "infra"
+      }
+    ]
+  },
+  {
+    "month": "2026-03",
+    "count": 7,
+    "repos": [
+      {
+        "name": "sess-barge",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "wt-diff",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "editor"
+      },
+      {
+        "name": "sess-turn-lab",
+        "visibility": "private",
+        "language": "Lua",
+        "kind": "agent-runtime"
+      },
+      {
+        "name": "ui-pulse-lab",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "frontend"
+      },
+      {
+        "name": "jitter-nack",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "webrtc"
+      },
+      {
+        "name": "retrcache",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "search-tantivy",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "search"
+      }
+    ]
+  },
+  {
+    "month": "2026-04",
+    "count": 6,
+    "repos": [
+      {
+        "name": "wafauth",
+        "visibility": "public",
+        "language": "Lua",
+        "kind": "infra"
+      },
+      {
+        "name": "vm-sched-lab",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "os-lang"
+      },
+      {
+        "name": "ossched",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "os-lang"
+      },
+      {
+        "name": "ui-reader",
+        "visibility": "public",
+        "language": "C++",
+        "kind": "frontend"
+      },
+      {
+        "name": "crawlsurreal",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "search"
+      },
+      {
+        "name": "kit-gcs-lab",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "frontend"
+      }
+    ]
+  },
+  {
+    "month": "2026-05",
+    "count": 5,
+    "repos": [
+      {
+        "name": "lab-dns",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      },
+      {
+        "name": "sfu-jitter",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "webrtc"
+      },
+      {
+        "name": "wt-helix",
+        "visibility": "public",
+        "language": "Python",
+        "kind": "editor"
+      },
+      {
+        "name": "idx-crawl-lab",
+        "visibility": "public",
+        "language": "Dart",
+        "kind": "search"
+      },
+      {
+        "name": "waf-auth-2026",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      }
+    ]
+  },
+  {
+    "month": "2026-06",
+    "count": 4,
+    "repos": [
+      {
+        "name": "ed-helix-2026",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "editor"
+      },
+      {
+        "name": "lab-caddy-2026",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "infra"
+      },
+      {
+        "name": "retr-hybrid-2026",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "rag"
+      },
+      {
+        "name": "waf-auth",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      }
+    ]
+  },
+  {
+    "month": "2026-07",
+    "count": 6,
+    "repos": [
+      {
+        "name": "os-boot-2026",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "os-lang"
+      },
+      {
+        "name": "vm-sched",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "os-lang"
+      },
+      {
+        "name": "jitter-srtp-lab",
+        "visibility": "private",
+        "language": "TypeScript",
+        "kind": "webrtc"
+      },
+      {
+        "name": "rag-rerank",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "rag"
+      },
+      {
+        "name": "labdns",
+        "visibility": "private",
+        "language": "Python",
+        "kind": "infra"
+      },
+      {
+        "name": "agent-turn",
+        "visibility": "public",
+        "language": "Shell",
+        "kind": "agent-runtime"
+      }
+    ]
+  },
+  {
+    "month": "2026-08",
+    "count": 4,
+    "repos": [
+      {
+        "name": "search-tantivy-2026",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "search"
+      },
+      {
+        "name": "uicockpit",
+        "visibility": "public",
+        "language": "TypeScript",
+        "kind": "frontend"
+      },
+      {
+        "name": "emb-rerank-2026",
+        "visibility": "private",
+        "language": "Rust",
+        "kind": "rag"
+      },
+      {
+        "name": "search-tantivy-lab",
+        "visibility": "public",
+        "language": "Rust",
+        "kind": "search"
+      }
+    ]
+  }
+]

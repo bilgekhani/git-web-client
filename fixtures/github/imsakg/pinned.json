@@ -1,0 +1,56 @@
+[
+  {
+    "nameWithOwner": "atuinsh/atuin",
+    "description": "✨ Making your shell magical",
+    "stargazerCount": 31334,
+    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Rust"
+    }
+  },
+  {
+    "nameWithOwner": "lima-vm/lima",
+    "description": "Linux virtual machines, with a focus on running containers",
+    "stargazerCount": 21715,
+    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Go"
+    }
+  },
+  {
+    "nameWithOwner": "SYSTRAN/faster-whisper",
+    "description": "Faster Whisper transcription with CTranslate2",
+    "stargazerCount": 24998,
+    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "nameWithOwner": "lissy93/dashy",
+    "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+    "stargazerCount": 26238,
+    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Vue"
+    }
+  },
+  {
+    "nameWithOwner": "pipecat-ai/pipecat",
+    "description": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+    "stargazerCount": 14325,
+    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  },
+  {
+    "nameWithOwner": "livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+    "stargazerCount": 13088,
+    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Python"
+    }
+  }
+]
